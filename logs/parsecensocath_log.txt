@@ -1,0 +1,588 @@
+2012-09-30 16:57:53,812,812 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 16:57:53,813,813 DEBUG [encuestaDAO] newId: 0
+2012-09-30 17:01:11,887,887 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:01:11,888,888 DEBUG [encuestaDAO] newId: 0
+2012-09-30 17:03:08,661,661 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:03:08,661,661 DEBUG [encuestaDAO] newId: 0
+2012-09-30 17:04:47,573,573 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:04:47,573,573 DEBUG [encuestaDAO] newId: 0
+2012-09-30 17:05:07,974,974 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:05:07,974,974 DEBUG [encuestaDAO] newId: 0
+2012-09-30 17:06:29,734,734 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:06:29,774,774 DEBUG [encuestaDAO] newId: 18
+2012-09-30 17:07:04,165,165 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:07:04,171,171 DEBUG [encuestaDAO] newId: 19
+2012-09-30 17:21:44,118,118 ERROR [encuestaDAO] Exception: %d format: a number is required, not str
+2012-09-30 17:23:30,576,576 ERROR [encuestaDAO] Exception: unsupported format character '\' (0x5c) at index 83
+2012-09-30 17:25:38,213,213 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:25:38,236,236 DEBUG [encuestaDAO] newId: 20
+2012-09-30 17:27:03,345,345 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:27:03,380,380 DEBUG [encuestaDAO] newId: 21
+2012-09-30 17:45:03,870,870 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:45:03,874,874 DEBUG [encuestaDAO] newId: 22
+2012-09-30 17:45:47,200,200 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:45:47,205,205 DEBUG [encuestaDAO] newId: 23
+2012-09-30 17:56:28,650,650 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 17:56:28,668,668 DEBUG [encuestaDAO] newId: 24
+2012-09-30 18:08:19,323,323 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:10:07,460,460 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 18:10:07,475,475 DEBUG [encuestaDAO] newId: 25
+2012-09-30 18:14:52,036,036 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 18:14:52,075,075 DEBUG [encuestaDAO] newId: 26
+2012-09-30 18:16:30,057,057 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:16:30,132,132 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 18:16:30,154,154 DEBUG [encuestaDAO] newId: 27
+2012-09-30 18:16:30,154,154 DEBUG [main] encuesta_id: 27
+2012-09-30 18:20:27,696,696 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:23:59,093,093 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:32:44,300,300 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:32:44,331,331 ERROR [encuestaDAO] Exception: %d format: a number is required, not str
+2012-09-30 18:34:17,102,102 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:34:17,124,124 ERROR [encuestaDAO] Exception: %d format: a number is required, not str
+2012-09-30 18:36:31,099,099 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:36:31,118,118 ERROR [encuestaDAO] The error was here: %d format: a number is required, not str
+2012-09-30 18:36:31,119,119 DEBUG [encuestaDAO] execute result: None
+2012-09-30 18:36:31,119,119 DEBUG [encuestaDAO] newId: 0
+2012-09-30 18:36:31,119,119 DEBUG [main] encuesta_id: 0
+2012-09-30 18:37:26,806,806 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:37:26,830,830 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 18:37:26,870,870 DEBUG [encuestaDAO] newId: 28
+2012-09-30 18:37:26,870,870 DEBUG [main] encuesta_id: 28
+2012-09-30 18:39:35,551,551 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 18:39:35,575,575 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 18:39:35,578,578 DEBUG [encuestaDAO] newId: 29
+2012-09-30 18:39:35,578,578 DEBUG [main] encuesta_id: 29
+2012-09-30 23:56:25,246,246 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 23:56:25,270,270 DEBUG [encuestaDAO] newId: 30
+2012-09-30 23:59:32,519,519 DEBUG [main] colonia: Santa Bárbara
+2012-09-30 23:59:32,545,545 DEBUG [main] insert in Encuesta(19/08/2012, 1, )
+2012-09-30 23:59:32,564,564 DEBUG [encuestaDAO] execute result: 1
+2012-09-30 23:59:32,573,573 DEBUG [encuestaDAO] newId: 31
+2012-09-30 23:59:32,573,573 DEBUG [main] encuesta_id: 31
+2012-10-01 00:00:59,319,319 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:00:59,386,386 DEBUG [encuestaDAO] newId: 32
+2012-10-01 00:01:25,326,326 DEBUG [main] colonia: Santa Bárbara
+2012-10-01 00:01:25,359,359 DEBUG [main] insert in Encuesta(19/08/2012, 1, )
+2012-10-01 00:01:25,361,361 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:01:25,403,403 DEBUG [encuestaDAO] newId: 33
+2012-10-01 00:01:25,404,404 DEBUG [main] encuesta_id: 33
+2012-10-01 00:21:06,312,312 ERROR [encuestaDAO] The error was here: %d format: a number is required, not str
+2012-10-01 00:21:06,312,312 ERROR [encuestaDAO] Exception: %d format: a number is required, not str
+2012-10-01 00:22:05,870,870 ERROR [encuestaDAO] The error was here: %d format: a number is required, not str
+2012-10-01 00:22:05,873,873 ERROR [encuestaDAO] Exception: %d format: a number is required, not str
+2012-10-01 00:22:44,057,057 ERROR [encuestaDAO] The error was here: execute() takes at most 3 arguments (4 given)
+2012-10-01 00:22:44,058,058 ERROR [encuestaDAO] Exception: execute() takes at most 3 arguments (4 given)
+2012-10-01 00:23:25,555,555 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:23:25,592,592 DEBUG [encuestaDAO] newId: 34
+2012-10-01 00:23:39,880,880 DEBUG [main] colonia: Santa Bárbara
+2012-10-01 00:23:39,922,922 DEBUG [main] insert in Encuesta(19/08/2012, 1, )
+2012-10-01 00:23:39,931,931 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:23:39,981,981 DEBUG [encuestaDAO] newId: 35
+2012-10-01 00:23:39,981,981 DEBUG [main] encuesta_id: 35
+2012-10-01 00:53:09,438,438 DEBUG [main] colonia: Santa Bárbara
+2012-10-01 00:53:09,590,590 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:53:09,607,607 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:53:09,636,636 DEBUG [encuestaDAO] newId: 36
+2012-10-01 00:53:09,636,636 DEBUG [main] encuesta_id: 36
+2012-10-01 00:54:50,863,863 DEBUG [main] colonia: Santa Bárbara
+2012-10-01 00:54:50,904,904 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:50,907,907 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:50,960,960 DEBUG [encuestaDAO] newId: 37
+2012-10-01 00:54:50,961,961 DEBUG [main] encuesta_id: 37
+2012-10-01 00:54:50,966,966 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:50,974,974 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:50,996,996 DEBUG [encuestaDAO] newId: 38
+2012-10-01 00:54:50,996,996 DEBUG [main] encuesta_id: 38
+2012-10-01 00:54:51,000,000 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:51,009,009 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,015,015 DEBUG [encuestaDAO] newId: 39
+2012-10-01 00:54:51,016,016 DEBUG [main] encuesta_id: 39
+2012-10-01 00:54:51,017,017 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:51,017,017 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,027,027 DEBUG [encuestaDAO] newId: 40
+2012-10-01 00:54:51,027,027 DEBUG [main] encuesta_id: 40
+2012-10-01 00:54:51,028,028 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:51,029,029 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,038,038 DEBUG [encuestaDAO] newId: 41
+2012-10-01 00:54:51,039,039 DEBUG [main] encuesta_id: 41
+2012-10-01 00:54:51,040,040 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,040,040 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,050,050 DEBUG [encuestaDAO] newId: 42
+2012-10-01 00:54:51,050,050 DEBUG [main] encuesta_id: 42
+2012-10-01 00:54:51,051,051 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,052,052 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,060,060 DEBUG [encuestaDAO] newId: 43
+2012-10-01 00:54:51,060,060 DEBUG [main] encuesta_id: 43
+2012-10-01 00:54:51,061,061 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,062,062 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,073,073 DEBUG [encuestaDAO] newId: 44
+2012-10-01 00:54:51,073,073 DEBUG [main] encuesta_id: 44
+2012-10-01 00:54:51,075,075 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,076,076 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,082,082 DEBUG [encuestaDAO] newId: 45
+2012-10-01 00:54:51,083,083 DEBUG [main] encuesta_id: 45
+2012-10-01 00:54:51,083,083 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,085,085 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,088,088 DEBUG [encuestaDAO] newId: 46
+2012-10-01 00:54:51,088,088 DEBUG [main] encuesta_id: 46
+2012-10-01 00:54:51,089,089 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,090,090 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,093,093 DEBUG [encuestaDAO] newId: 47
+2012-10-01 00:54:51,093,093 DEBUG [main] encuesta_id: 47
+2012-10-01 00:54:51,094,094 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,095,095 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,098,098 DEBUG [encuestaDAO] newId: 48
+2012-10-01 00:54:51,099,099 DEBUG [main] encuesta_id: 48
+2012-10-01 00:54:51,103,103 DEBUG [main] insert in Encuesta(2012/08/22, 1, NO SALEN NUNCA)
+2012-10-01 00:54:51,104,104 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,129,129 DEBUG [encuestaDAO] newId: 49
+2012-10-01 00:54:51,129,129 DEBUG [main] encuesta_id: 49
+2012-10-01 00:54:51,130,130 DEBUG [main] insert in Encuesta(2012/08/12, 1, VIVE SOLA)
+2012-10-01 00:54:51,131,131 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,140,140 DEBUG [encuestaDAO] newId: 50
+2012-10-01 00:54:51,140,140 DEBUG [main] encuesta_id: 50
+2012-10-01 00:54:51,141,141 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,143,143 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,156,156 DEBUG [encuestaDAO] newId: 51
+2012-10-01 00:54:51,157,157 DEBUG [main] encuesta_id: 51
+2012-10-01 00:54:51,159,159 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,164,164 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,194,194 DEBUG [encuestaDAO] newId: 52
+2012-10-01 00:54:51,194,194 DEBUG [main] encuesta_id: 52
+2012-10-01 00:54:51,195,195 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:54:51,196,196 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,200,200 DEBUG [encuestaDAO] newId: 53
+2012-10-01 00:54:51,201,201 DEBUG [main] encuesta_id: 53
+2012-10-01 00:54:51,202,202 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:54:51,203,203 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:54:51,207,207 DEBUG [encuestaDAO] newId: 54
+2012-10-01 00:54:51,208,208 DEBUG [main] encuesta_id: 54
+2012-10-01 00:56:58,386,386 DEBUG [main] colonia: Santa Bárbara
+2012-10-01 00:56:58,409,409 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,409,409 DEBUG [main] {"PARENTESCO": "P", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "EMILIA HERMANDAS S\u00c1NCHEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,409,409 DEBUG [main] 
+
+2012-10-01 00:56:58,410,410 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,410,410 DEBUG [main] {"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "SN"}
+2012-10-01 00:56:58,410,410 DEBUG [main] 
+
+2012-10-01 00:56:58,410,410 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,412,412 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,450,450 DEBUG [encuestaDAO] newId: 55
+2012-10-01 00:56:58,451,451 DEBUG [main] encuesta_id: 55
+2012-10-01 00:56:58,451,451 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,452,452 DEBUG [main] {"PARENTESCO": "P", "EDAD": "47", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FELIPE MART\u00cdNEZ GARC\u00cdA", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,452,452 DEBUG [main] 
+
+2012-10-01 00:56:58,452,452 DEBUG [main] {"PARENTESCO": "M", "EDAD": "36", "SEXO": "F", "RELIGION": "C", "NOMBRE": "REINADA OROPEZA RODRIGUEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,453,453 DEBUG [main] 
+
+2012-10-01 00:56:58,453,453 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "KARINA MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,453,453 DEBUG [main] 
+
+2012-10-01 00:56:58,453,453 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CRISTINA MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,454,454 DEBUG [main] 
+
+2012-10-01 00:56:58,454,454 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,454,454 DEBUG [main] 
+
+2012-10-01 00:56:58,455,455 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "LISBET MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,455,455 DEBUG [main] 
+
+2012-10-01 00:56:58,455,455 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "11", "SEXO": "M", "RELIGION": "C", "NOMBRE": "OSVALDO MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,455,455 DEBUG [main] 
+
+2012-10-01 00:56:58,456,456 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "47", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ALICIA OROPEZA RODRIGUEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,456,456 DEBUG [main] 
+
+2012-10-01 00:56:58,456,456 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,456,456 DEBUG [main] {"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "SN"}
+2012-10-01 00:56:58,457,457 DEBUG [main] 
+
+2012-10-01 00:56:58,457,457 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,458,458 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,467,467 DEBUG [encuestaDAO] newId: 56
+2012-10-01 00:56:58,467,467 DEBUG [main] encuesta_id: 56
+2012-10-01 00:56:58,467,467 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,468,468 DEBUG [main] {"PARENTESCO": "P", "EDAD": "46", "SEXO": "M", "RELIGION": "", "NOMBRE": "FERNANDO LADERO CANTERO", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,468,468 DEBUG [main] 
+
+2012-10-01 00:56:58,468,468 DEBUG [main] {"PARENTESCO": "M", "EDAD": "41", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARTHA P\u00c9REZ ARIAS", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,469,469 DEBUG [main] 
+
+2012-10-01 00:56:58,469,469 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "17", "SEXO": "F", "RELIGION": "C", "NOMBRE": "NATALIA LADERO P\u00c9REZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,469,469 DEBUG [main] 
+
+2012-10-01 00:56:58,470,470 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "12", "SEXO": "F", "RELIGION": "C", "NOMBRE": "SOF\u00cdA LADERO P\u00c9REZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,470,470 DEBUG [main] 
+
+2012-10-01 00:56:58,470,470 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,471,471 DEBUG [main] {"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "16"}
+2012-10-01 00:56:58,471,471 DEBUG [main] 
+
+2012-10-01 00:56:58,471,471 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,472,472 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,475,475 DEBUG [encuestaDAO] newId: 57
+2012-10-01 00:56:58,476,476 DEBUG [main] encuesta_id: 57
+2012-10-01 00:56:58,480,480 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,481,481 DEBUG [main] {"PARENTESCO": "P", "EDAD": "27", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JACINTO GARC\u00cdA G", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,481,481 DEBUG [main] 
+
+2012-10-01 00:56:58,481,481 DEBUG [main] {"PARENTESCO": "M", "EDAD": "25", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARIBEL ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,482,482 DEBUG [main] 
+
+2012-10-01 00:56:58,482,482 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "7", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RICARDO GARC\u00cdA ANDRADE", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,483,483 DEBUG [main] 
+
+2012-10-01 00:56:58,484,484 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,485,485 DEBUG [main] {"CALLE": "PRIVADA ANALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "11"}
+2012-10-01 00:56:58,489,489 DEBUG [main] 
+
+2012-10-01 00:56:58,490,490 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,491,491 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,514,514 DEBUG [encuestaDAO] newId: 58
+2012-10-01 00:56:58,514,514 DEBUG [main] encuesta_id: 58
+2012-10-01 00:56:58,514,514 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,515,515 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "17", "SEXO": "M", "RELIGION": "C", "NOMBRE": "SILVERIO ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,515,515 DEBUG [main] 
+
+2012-10-01 00:56:58,515,515 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "17", "SEXO": "M", "RELIGION": "C", "NOMBRE": "NASARIO GARC\u00cdA G", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,516,516 DEBUG [main] 
+
+2012-10-01 00:56:58,516,516 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARTHA ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,516,516 DEBUG [main] 
+
+2012-10-01 00:56:58,517,517 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,518,518 DEBUG [main] {"CALLE": "PRIVADA ANALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "11"}
+2012-10-01 00:56:58,520,520 DEBUG [main] 
+
+2012-10-01 00:56:58,520,520 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,521,521 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,526,526 DEBUG [encuestaDAO] newId: 59
+2012-10-01 00:56:58,526,526 DEBUG [main] encuesta_id: 59
+2012-10-01 00:56:58,526,526 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,527,527 DEBUG [main] {"PARENTESCO": "P", "EDAD": "25", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RAUL JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,527,527 DEBUG [main] 
+
+2012-10-01 00:56:58,527,527 DEBUG [main] {"PARENTESCO": "M", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "BLANCA ESTELA GUERRA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,527,527 DEBUG [main] 
+
+2012-10-01 00:56:58,528,528 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "1", "SEXO": "M", "RELIGION": "C", "NOMBRE": "SERGIO EDUARDO JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,528,528 DEBUG [main] 
+
+2012-10-01 00:56:58,530,530 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,531,531 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+2012-10-01 00:56:58,531,531 DEBUG [main] 
+
+2012-10-01 00:56:58,531,531 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,533,533 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,538,538 DEBUG [encuestaDAO] newId: 60
+2012-10-01 00:56:58,538,538 DEBUG [main] encuesta_id: 60
+2012-10-01 00:56:58,538,538 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,539,539 DEBUG [main] {"PARENTESCO": "P", "EDAD": "30", "SEXO": "M", "RELIGION": "C", "NOMBRE": "OSCAR JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,539,539 DEBUG [main] 
+
+2012-10-01 00:56:58,539,539 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "3", "SEXO": "F", "RELIGION": "C", "NOMBRE": "XIMENA JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,540,540 DEBUG [main] 
+
+2012-10-01 00:56:58,540,540 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,540,540 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+2012-10-01 00:56:58,540,540 DEBUG [main] 
+
+2012-10-01 00:56:58,541,541 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,544,544 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,558,558 DEBUG [encuestaDAO] newId: 61
+2012-10-01 00:56:58,559,559 DEBUG [main] encuesta_id: 61
+2012-10-01 00:56:58,559,559 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,559,559 DEBUG [main] {"PARENTESCO": "P", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FLORENTINO GONZALEZ S\u00c1NCHEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+2012-10-01 00:56:58,560,560 DEBUG [main] 
+
+2012-10-01 00:56:58,560,560 DEBUG [main] {"PARENTESCO": "M", "EDAD": "29", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CLAUDIA PATRICIA", "LUGAR DE ORIGEN": "CHIAPAS"}
+2012-10-01 00:56:58,560,560 DEBUG [main] 
+
+2012-10-01 00:56:58,560,560 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "12", "SEXO": "F", "RELIGION": "C", "NOMBRE": "VIRIDIANA GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,561,561 DEBUG [main] 
+
+2012-10-01 00:56:58,561,561 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "11", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSE JULIAN GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,561,561 DEBUG [main] 
+
+2012-10-01 00:56:58,561,561 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "9", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JES\u00daS GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,562,562 DEBUG [main] 
+
+2012-10-01 00:56:58,563,563 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,564,564 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "21", "NUM EXT": "20"}
+2012-10-01 00:56:58,564,564 DEBUG [main] 
+
+2012-10-01 00:56:58,564,564 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,565,565 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,594,594 DEBUG [encuestaDAO] newId: 62
+2012-10-01 00:56:58,595,595 DEBUG [main] encuesta_id: 62
+2012-10-01 00:56:58,595,595 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,595,595 DEBUG [main] {"PARENTESCO": "P", "EDAD": "20", "SEXO": "M", "RELIGION": "C", "NOMBRE": "ALBERTO GONZALEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+2012-10-01 00:56:58,595,595 DEBUG [main] 
+
+2012-10-01 00:56:58,596,596 DEBUG [main] {"PARENTESCO": "M", "EDAD": "23", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ADRIANA HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,596,596 DEBUG [main] 
+
+2012-10-01 00:56:58,596,596 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "4", "SEXO": "M", "RELIGION": "C", "NOMBRE": "GIOVANI GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,596,596 DEBUG [main] 
+
+2012-10-01 00:56:58,597,597 DEBUG [main] {"PARENTESCO": "O", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARIBEL GONZALEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+2012-10-01 00:56:58,597,597 DEBUG [main] 
+
+2012-10-01 00:56:58,597,597 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,600,600 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "21", "NUM EXT": "20"}
+2012-10-01 00:56:58,601,601 DEBUG [main] 
+
+2012-10-01 00:56:58,601,601 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,602,602 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,614,614 DEBUG [encuestaDAO] newId: 63
+2012-10-01 00:56:58,615,615 DEBUG [main] encuesta_id: 63
+2012-10-01 00:56:58,615,615 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,615,615 DEBUG [main] {"PARENTESCO": "P", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSE DIAZ DELGUANTE", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,626,626 DEBUG [main] 
+
+2012-10-01 00:56:58,627,627 DEBUG [main] {"PARENTESCO": "M", "EDAD": "24", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MONSERRAT JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,628,628 DEBUG [main] 
+
+2012-10-01 00:56:58,629,629 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "1", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSUE DIAZ DELGUANTE", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,629,629 DEBUG [main] 
+
+2012-10-01 00:56:58,629,629 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,629,629 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+2012-10-01 00:56:58,633,633 DEBUG [main] 
+
+2012-10-01 00:56:58,633,633 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,634,634 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,649,649 DEBUG [encuestaDAO] newId: 64
+2012-10-01 00:56:58,650,650 DEBUG [main] encuesta_id: 64
+2012-10-01 00:56:58,650,650 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,650,650 DEBUG [main] {"PARENTESCO": "P", "EDAD": "53", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RODOLFO BOZON", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,651,651 DEBUG [main] 
+
+2012-10-01 00:56:58,651,651 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "21", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS BOZON", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,651,651 DEBUG [main] 
+
+2012-10-01 00:56:58,651,651 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "13", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN MANUEL BOZON", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,652,652 DEBUG [main] 
+
+2012-10-01 00:56:58,652,652 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,652,652 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+2012-10-01 00:56:58,652,652 DEBUG [main] 
+
+2012-10-01 00:56:58,652,652 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,653,653 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,669,669 DEBUG [encuestaDAO] newId: 65
+2012-10-01 00:56:58,670,670 DEBUG [main] encuesta_id: 65
+2012-10-01 00:56:58,670,670 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,670,670 DEBUG [main] {"PARENTESCO": "P", "EDAD": "48", "SEXO": "M", "RELIGION": "C", "NOMBRE": "MIGUEL ANGEL HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,671,671 DEBUG [main] 
+
+2012-10-01 00:56:58,671,671 DEBUG [main] {"PARENTESCO": "M", "EDAD": "42", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ANITA DE JIMENEZ CONTRERAS", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,671,671 DEBUG [main] 
+
+2012-10-01 00:56:58,672,672 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "23", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,672,672 DEBUG [main] 
+
+2012-10-01 00:56:58,672,672 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "21", "SEXO": "M", "RELIGION": "C", "NOMBRE": "MIGUEL ANGEL HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,672,672 DEBUG [main] 
+
+2012-10-01 00:56:58,673,673 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,673,673 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "13"}
+2012-10-01 00:56:58,673,673 DEBUG [main] 
+
+2012-10-01 00:56:58,674,674 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,674,674 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,693,693 DEBUG [encuestaDAO] newId: 66
+2012-10-01 00:56:58,693,693 DEBUG [main] encuesta_id: 66
+2012-10-01 00:56:58,694,694 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,694,694 DEBUG [main] {"PARENTESCO": "P", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+2012-10-01 00:56:58,694,694 DEBUG [main] 
+
+2012-10-01 00:56:58,695,695 DEBUG [main] {"PARENTESCO": "M", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+2012-10-01 00:56:58,695,695 DEBUG [main] 
+
+2012-10-01 00:56:58,695,695 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+2012-10-01 00:56:58,695,695 DEBUG [main] 
+
+2012-10-01 00:56:58,696,696 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+2012-10-01 00:56:58,696,696 DEBUG [main] 
+
+2012-10-01 00:56:58,696,696 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,697,697 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "NO SALEN NUNCA", "FECHA": "22/08/2012", "NUM INT": "SN", "NUM EXT": "27 A"}
+2012-10-01 00:56:58,697,697 DEBUG [main] 
+
+2012-10-01 00:56:58,697,697 DEBUG [main] insert in Encuesta(2012/08/22, 1, NO SALEN NUNCA)
+2012-10-01 00:56:58,699,699 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,714,714 DEBUG [encuestaDAO] newId: 67
+2012-10-01 00:56:58,714,714 DEBUG [main] encuesta_id: 67
+2012-10-01 00:56:58,720,720 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,720,720 DEBUG [main] {"PARENTESCO": "O", "EDAD": "68", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CONCEPCI\u00d3N JUAREZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,727,727 DEBUG [main] 
+
+2012-10-01 00:56:58,727,727 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,728,728 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "VIVE SOLA", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "A - 8"}
+2012-10-01 00:56:58,729,729 DEBUG [main] 
+
+2012-10-01 00:56:58,729,729 DEBUG [main] insert in Encuesta(2012/08/12, 1, VIVE SOLA)
+2012-10-01 00:56:58,731,731 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,740,740 DEBUG [encuestaDAO] newId: 68
+2012-10-01 00:56:58,741,741 DEBUG [main] encuesta_id: 68
+2012-10-01 00:56:58,741,741 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,741,741 DEBUG [main] {"PARENTESCO": "M", "EDAD": "41", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MAGDALENA ELVIA ORTIZ JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,741,741 DEBUG [main] 
+
+2012-10-01 00:56:58,741,741 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "22", "SEXO": "M", "RELIGION": "C", "NOMBRE": "GUILLERMO SANTIAGO", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,742,742 DEBUG [main] 
+
+2012-10-01 00:56:58,742,742 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "VIVIANA MAGDALENA", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,742,742 DEBUG [main] 
+
+2012-10-01 00:56:58,742,742 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,743,743 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "A - 8"}
+2012-10-01 00:56:58,743,743 DEBUG [main] 
+
+2012-10-01 00:56:58,745,745 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,747,747 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,753,753 DEBUG [encuestaDAO] newId: 69
+2012-10-01 00:56:58,754,754 DEBUG [main] encuesta_id: 69
+2012-10-01 00:56:58,754,754 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,754,754 DEBUG [main] {"PARENTESCO": "M", "EDAD": "57", "SEXO": "F", "RELIGION": "C", "NOMBRE": "GUADALUPE NU\u00d1EZ FARZON", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,755,755 DEBUG [main] 
+
+2012-10-01 00:56:58,755,755 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "33", "SEXO": "F", "RELIGION": "C", "NOMBRE": "PATRICIA MENDEZ NU\u00d1EZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,755,755 DEBUG [main] 
+
+2012-10-01 00:56:58,756,756 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "ALFREDO JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,756,756 DEBUG [main] 
+
+2012-10-01 00:56:58,756,756 DEBUG [main] {"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "AMEXALY JIMENEZ M", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,756,756 DEBUG [main] 
+
+2012-10-01 00:56:58,757,757 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "NICOLAS MENDEZ N", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,757,757 DEBUG [main] 
+
+2012-10-01 00:56:58,757,757 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JULIO MENDEZ N", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,757,757 DEBUG [main] 
+
+2012-10-01 00:56:58,758,758 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,758,758 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "15"}
+2012-10-01 00:56:58,759,759 DEBUG [main] 
+
+2012-10-01 00:56:58,759,759 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,760,760 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,772,772 DEBUG [encuestaDAO] newId: 70
+2012-10-01 00:56:58,772,772 DEBUG [main] encuesta_id: 70
+2012-10-01 00:56:58,773,773 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,773,773 DEBUG [main] {"PARENTESCO": "M", "EDAD": "67", "SEXO": "F", "RELIGION": "C", "NOMBRE": "JULIA NIETO", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,773,773 DEBUG [main] 
+
+2012-10-01 00:56:58,773,773 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "30", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JORGE MERINO", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,774,774 DEBUG [main] 
+
+2012-10-01 00:56:58,774,774 DEBUG [main] {"PARENTESCO": "HO", "EDAD": "37", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JULIAN MERINO", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,774,774 DEBUG [main] 
+
+2012-10-01 00:56:58,774,774 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,775,775 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "20"}
+2012-10-01 00:56:58,775,775 DEBUG [main] 
+
+2012-10-01 00:56:58,775,775 DEBUG [main] insert in Encuesta(2012/08/12, 1, )
+2012-10-01 00:56:58,776,776 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,792,792 DEBUG [encuestaDAO] newId: 71
+2012-10-01 00:56:58,792,792 DEBUG [main] encuesta_id: 71
+2012-10-01 00:56:58,792,792 DEBUG [main] -----------------------------------------
+
+2012-10-01 00:56:58,793,793 DEBUG [main] {"PARENTESCO": "P", "EDAD": "65", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FRANCISCO JAVIER CRUZ", "LUGAR DE ORIGEN": "OAXACA"}
+2012-10-01 00:56:58,793,793 DEBUG [main] 
+
+2012-10-01 00:56:58,793,793 DEBUG [main] {"PARENTESCO": "M", "EDAD": "63", "SEXO": "F", "RELIGION": "C", "NOMBRE": "TERESA DIAZ RAMIREZ", "LUGAR DE ORIGEN": "PUEBLA"}
+2012-10-01 00:56:58,794,794 DEBUG [main] 
+
+2012-10-01 00:56:58,794,794 DEBUG [main]  -  -  -  -  -  -  -  -  -  -  -  -
+
+2012-10-01 00:56:58,794,794 DEBUG [main] {"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+2012-10-01 00:56:58,794,794 DEBUG [main] 
+
+2012-10-01 00:56:58,795,795 DEBUG [main] insert in Encuesta(2012/08/19, 1, )
+2012-10-01 00:56:58,795,795 DEBUG [encuestaDAO] execute result: 1
+2012-10-01 00:56:58,817,817 DEBUG [encuestaDAO] newId: 72
+2012-10-01 00:56:58,818,818 DEBUG [main] encuesta_id: 72
+2012-10-01 22:33:15,721,721 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-01 22:34:02,439,439 ERROR [coloniaDAO] Exception: 'int' object is unsubscriptable
+2012-10-01 22:34:26,277,277 DEBUG [coloniaDAO] execute result: 1
+2012-10-01 22:34:26,285,285 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-01 22:34:46,785,785 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-03 07:26:26,271,271 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-03 07:45:02,465,465 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:45:02,491,491 DEBUG [coloniaDAO] result = None. Colonia doesn't exist
+2012-10-03 07:45:02,549,549 DEBUG [coloniaDAO] execute result: 1
+2012-10-03 07:45:02,580,580 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:45:02,582,582 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-03 07:51:52,874,874 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:51:52,876,876 ERROR [coloniaDAO] Exception: not all arguments converted during string formatting
+2012-10-03 07:52:48,345,345 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:52:48,348,348 ERROR [coloniaDAO] Exception: 'long' object is unsubscriptable
+2012-10-03 07:55:12,215,215 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:55:12,216,216 DEBUG [coloniaDAO] colonia exist. colonia_id: 0
+2012-10-03 07:55:12,218,218 DEBUG [coloniaDAO] before select: San cuanácaro
+2012-10-03 07:55:12,220,220 DEBUG [coloniaDAO] colonia exist. colonia_id: 0
+2012-10-03 07:55:12,221,221 DEBUG [coloniaDAO] before select: Terepitengo
+2012-10-03 07:55:12,221,221 DEBUG [coloniaDAO] result = None. Colonia doesn't exist
+2012-10-03 07:55:12,222,222 DEBUG [coloniaDAO] execute result: 1
+2012-10-03 07:55:12,235,235 DEBUG [coloniaDAO] before select: Terepitengo
+2012-10-03 07:55:12,236,236 DEBUG [coloniaDAO] colonia exist. colonia_id: 0
+2012-10-03 08:00:13,072,072 DEBUG [coloniaDAO] colonia existe. colonia_id: 10
+2012-10-03 08:00:13,074,074 DEBUG [coloniaDAO] colonia existe. colonia_id: 10
+2012-10-03 08:00:13,076,076 DEBUG [coloniaDAO] colonia existe. colonia_id: 11
+2012-10-03 08:00:13,077,077 DEBUG [coloniaDAO] colonia existe. colonia_id: 11
+2012-10-03 08:00:56,807,807 DEBUG [coloniaDAO] result = None. colonia no existe
+2012-10-03 08:00:56,810,810 DEBUG [coloniaDAO] execute result: 1
+2012-10-03 08:00:56,853,853 DEBUG [coloniaDAO] colonia insertada. colonia_id: 12
+2012-10-03 08:00:56,854,854 DEBUG [coloniaDAO] colonia existe. colonia_id: 12
+2012-10-03 08:00:56,855,855 DEBUG [coloniaDAO] result = None. colonia no existe
+2012-10-03 08:00:56,855,855 DEBUG [coloniaDAO] execute result: 1
+2012-10-03 08:00:56,859,859 DEBUG [coloniaDAO] colonia insertada. colonia_id: 13
+2012-10-03 08:00:56,860,860 DEBUG [coloniaDAO] colonia existe. colonia_id: 13
+2012-10-03 08:06:48,126,126 DEBUG [coloniaDAO] colonia existe. colonia_id: 12
+2012-10-03 08:06:48,127,127 DEBUG [coloniaDAO] colonia existe. colonia_id: 12
+2012-10-03 08:06:48,128,128 DEBUG [coloniaDAO] colonia existe. colonia_id: 13
+2012-10-03 08:06:48,129,129 DEBUG [coloniaDAO] colonia existe. colonia_id: 13
+2012-10-03 08:07:59,762,762 DEBUG [coloniaDAO] colonia existe. colonia_id: 10
+2012-10-03 08:07:59,763,763 DEBUG [coloniaDAO] colonia existe. colonia_id: 10
+2012-10-03 08:07:59,764,764 DEBUG [coloniaDAO] colonia existe. colonia_id: 11
+2012-10-03 08:07:59,765,765 DEBUG [coloniaDAO] colonia existe. colonia_id: 11

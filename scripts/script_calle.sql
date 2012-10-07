@@ -1,0 +1,10 @@
+INSERT INTO tablename (Tables In Censocath) VALUES (Calle);
+INSERT INTO tablename (Tables In Censocath) VALUES (Colonia);
+INSERT INTO tablename (Tables In Censocath) VALUES (Encuesta);
+INSERT INTO tablename (Tables In Censocath) VALUES (Encuestador);
+INSERT INTO tablename (Tables In Censocath) VALUES (Familia);
+INSERT INTO tablename (Tables In Censocath) VALUES (Manzana);
+INSERT INTO tablename (Tables In Censocath) VALUES (Parentesco);
+INSERT INTO tablename (Tables In Censocath) VALUES (Persona);
+INSERT INTO tablename (Tables In Censocath) VALUES (Religion);
+INSERT INTO tablename (Tables In Censocath) VALUES (Sexo);

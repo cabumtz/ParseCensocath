@@ -1,0 +1,116 @@
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "EMILIA HERMANDAS S\u00c1NCHEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "SN"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "47", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FELIPE MART\u00cdNEZ GARC\u00cdA", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "M", "EDAD": "36", "SEXO": "F", "RELIGION": "C", "NOMBRE": "REINADA OROPEZA RODRIGUEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "KARINA MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CRISTINA MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "LISBET MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "11", "SEXO": "M", "RELIGION": "C", "NOMBRE": "OSVALDO MART\u00cdNEZ OROPEZA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "47", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ALICIA OROPEZA RODRIGUEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "SN"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "46", "SEXO": "M", "RELIGION": "", "NOMBRE": "FERNANDO LADERO CANTERO", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "M", "EDAD": "41", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARTHA P\u00c9REZ ARIAS", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "17", "SEXO": "F", "RELIGION": "C", "NOMBRE": "NATALIA LADERO P\u00c9REZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "12", "SEXO": "F", "RELIGION": "C", "NOMBRE": "SOF\u00cdA LADERO P\u00c9REZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "MILLALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "16"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "27", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JACINTO GARC\u00cdA G", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "M", "EDAD": "25", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARIBEL ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "HO", "EDAD": "7", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RICARDO GARC\u00cdA ANDRADE", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA ANALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "11"}
+-----------------------------------------
+{"PARENTESCO": "HO", "EDAD": "17", "SEXO": "M", "RELIGION": "C", "NOMBRE": "SILVERIO ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "HO", "EDAD": "17", "SEXO": "M", "RELIGION": "C", "NOMBRE": "NASARIO GARC\u00cdA G", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "HA", "EDAD": "16", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARTHA ANDRADE M", "LUGAR DE ORIGEN": "OAXACA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA ANALCO", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "11"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "25", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RAUL JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "M", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "BLANCA ESTELA GUERRA", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "1", "SEXO": "M", "RELIGION": "C", "NOMBRE": "SERGIO EDUARDO JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "30", "SEXO": "M", "RELIGION": "C", "NOMBRE": "OSCAR JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "3", "SEXO": "F", "RELIGION": "C", "NOMBRE": "XIMENA JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FLORENTINO GONZALEZ S\u00c1NCHEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+{"PARENTESCO": "M", "EDAD": "29", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CLAUDIA PATRICIA", "LUGAR DE ORIGEN": "CHIAPAS"}
+{"PARENTESCO": "HA", "EDAD": "12", "SEXO": "F", "RELIGION": "C", "NOMBRE": "VIRIDIANA GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "11", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSE JULIAN GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "9", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JES\u00daS GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "21", "NUM EXT": "20"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "20", "SEXO": "M", "RELIGION": "C", "NOMBRE": "ALBERTO GONZALEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+{"PARENTESCO": "M", "EDAD": "23", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ADRIANA HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "4", "SEXO": "M", "RELIGION": "C", "NOMBRE": "GIOVANI GONZALEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "O", "EDAD": "22", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MARIBEL GONZALEZ", "LUGAR DE ORIGEN": "CHIAPAS"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "21", "NUM EXT": "20"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSE DIAZ DELGUANTE", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "M", "EDAD": "24", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MONSERRAT JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "1", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JOSUE DIAZ DELGUANTE", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "53", "SEXO": "M", "RELIGION": "C", "NOMBRE": "RODOLFO BOZON", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "HO", "EDAD": "21", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS BOZON", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "13", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN MANUEL BOZON", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "48", "SEXO": "M", "RELIGION": "C", "NOMBRE": "MIGUEL ANGEL HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "M", "EDAD": "42", "SEXO": "F", "RELIGION": "C", "NOMBRE": "ANITA DE JIMENEZ CONTRERAS", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "23", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JUAN CARLOS HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "21", "SEXO": "M", "RELIGION": "C", "NOMBRE": "MIGUEL ANGEL HERNANDEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "13"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+{"PARENTESCO": "M", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+{"PARENTESCO": "HO", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+{"PARENTESCO": "HO", "EDAD": "", "SEXO": "", "RELIGION": "", "NOMBRE": "", "LUGAR DE ORIGEN": ""}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "NO SALEN NUNCA", "FECHA": "22/08/2012", "NUM INT": "SN", "NUM EXT": "27 A"}
+-----------------------------------------
+{"PARENTESCO": "O", "EDAD": "68", "SEXO": "F", "RELIGION": "C", "NOMBRE": "CONCEPCI\u00d3N JUAREZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "VIVE SOLA", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "A - 8"}
+-----------------------------------------
+{"PARENTESCO": "M", "EDAD": "41", "SEXO": "F", "RELIGION": "C", "NOMBRE": "MAGDALENA ELVIA ORTIZ JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "22", "SEXO": "M", "RELIGION": "C", "NOMBRE": "GUILLERMO SANTIAGO", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "VIVIANA MAGDALENA", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "A - 8"}
+-----------------------------------------
+{"PARENTESCO": "M", "EDAD": "57", "SEXO": "F", "RELIGION": "C", "NOMBRE": "GUADALUPE NU\u00d1EZ FARZON", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "33", "SEXO": "F", "RELIGION": "C", "NOMBRE": "PATRICIA MENDEZ NU\u00d1EZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "ALFREDO JIMENEZ", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HA", "EDAD": "14", "SEXO": "F", "RELIGION": "C", "NOMBRE": "AMEXALY JIMENEZ M", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "32", "SEXO": "M", "RELIGION": "C", "NOMBRE": "NICOLAS MENDEZ N", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "19", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JULIO MENDEZ N", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "15"}
+-----------------------------------------
+{"PARENTESCO": "M", "EDAD": "67", "SEXO": "F", "RELIGION": "C", "NOMBRE": "JULIA NIETO", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "HO", "EDAD": "30", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JORGE MERINO", "LUGAR DE ORIGEN": "PUEBLA"}
+{"PARENTESCO": "HO", "EDAD": "37", "SEXO": "M", "RELIGION": "C", "NOMBRE": "JULIAN MERINO", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "12/08/2012", "NUM INT": "SN", "NUM EXT": "20"}
+-----------------------------------------
+{"PARENTESCO": "P", "EDAD": "65", "SEXO": "M", "RELIGION": "C", "NOMBRE": "FRANCISCO JAVIER CRUZ", "LUGAR DE ORIGEN": "OAXACA"}
+{"PARENTESCO": "M", "EDAD": "63", "SEXO": "F", "RELIGION": "C", "NOMBRE": "TERESA DIAZ RAMIREZ", "LUGAR DE ORIGEN": "PUEBLA"}
+ -  -  -  -  -  -  -  -  -  -  -  -
+{"CALLE": "PRIVADA SANTA BARBARA", "OBSERVACION": "", "FECHA": "19/08/2012", "NUM INT": "SN", "NUM EXT": "10"}
