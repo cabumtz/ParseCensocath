@@ -6,6 +6,8 @@ Created on 03/10/2012
 import MySQLdb
 import string
 
+from MySQLdb.converters import conversions as MySQLConversions
+
 class DaoUtil(object):
     '''
     classdocs
@@ -24,7 +26,7 @@ class DaoUtil(object):
     def getConnection(self):
         '''
         '''
-        my_conv = MySQLdb.converters.conversions.copy()
+        my_conv = MySQLConversions.copy()
         
         dbConn = MySQLdb.connect(conv=my_conv,
                              host=self.config.db["host"],
