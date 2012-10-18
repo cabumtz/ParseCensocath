@@ -12,7 +12,7 @@ class EncuestaFamiliarService(object):
     daos = None
     daoUtil = None
     logger = logging.getLogger("services")
-
+    
 
     def __init__(self, daos, daoUtil):
         '''
