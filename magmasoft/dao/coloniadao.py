@@ -18,7 +18,7 @@ class ColoniaDAO(object):
         Constructor
         '''
         self.db = conn
-        self.logger = logging.getLogger("coloniaDAO")
+        self.logger = logging.getLogger("daos")
         pass
 
 
