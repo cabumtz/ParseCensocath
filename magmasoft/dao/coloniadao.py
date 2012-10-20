@@ -26,7 +26,7 @@ class ColoniaDAO(object):
         '''
         
         '''
-        sqlParameters = ( nombreColonia, )
+        #sqlParameters = ( nombreColonia, )
         
         try:
             cursor = self.db.cursor()

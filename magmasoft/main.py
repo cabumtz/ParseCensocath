@@ -63,7 +63,7 @@ def mainProcess(colonia, serviceFactory) :
 	""" Cadena comentario """
 	salir = False
 	renVacio = False
-	renNulo = False
+	#renNulo = False
 	services = serviceFactory.getServices()
 	
 	logfile = codecs.open("logfile.txt", "w")
@@ -91,7 +91,7 @@ def mainProcess(colonia, serviceFactory) :
 			
 			if (cells == None) :
 				salir2=True
-				renNulo = True
+				#renNulo = True
 				break
 			
 			if ( renglonVacio(cells) ) :
@@ -130,7 +130,7 @@ def mainProcess(colonia, serviceFactory) :
 					break
 				else :
 					datosEncuesta[cells[0]] = cells[1]
-			except Exception, e :
+			except Exception :
 				#logfile.write "ERROR Exception: "
 				#logfile.write e
 				salir = True
@@ -156,7 +156,8 @@ def mainFunc():
 	parser = OptionParser()
 	parser.add_option("-c", "--colonia", dest="colonia", help="nombre de la colonia" )
 
-	(options, args) = parser.parse_args()
+	#(options, args) = parser.parse_args()
+	(options, ) = parser.parse_args()
 	
 	logger.debug( "colonia: %s" %  options.colonia )
 	

@@ -11,7 +11,7 @@ from magmasoft.config import Config
 from magmasoft.factory.servicefactory import ServiceFactory
 
 
-class Test(unittest.TestCase):
+class ColoniaDAO_Test(unittest.TestCase):
     serviceFactory = None
     coloniaDAO = None
 

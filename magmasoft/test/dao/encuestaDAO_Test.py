@@ -6,7 +6,9 @@ Created on 30/09/2012
 import unittest
 import MySQLdb
 
+
 from magmasoft.dao.encuestadao import EncuestaDAO
+from magmasoft.dao.daoutil import DaoUtil
 
 class EncuestaDAO_Test(unittest.TestCase):
     db = None
@@ -24,7 +26,7 @@ class EncuestaDAO_Test(unittest.TestCase):
 
 
     def test_insertar(self):
-        newId = self.encuestaDAO.insertar("30/09/2012", 1, "Esta es una prueba 5")
+        newId = self.encuestaDAO.insertar( DaoUtil.getSQLDateFromString("30/09/2012")  , 1, "Esta es una prueba 5")
         print "newId: ", newId
         self.assertNotEqual(newId, None, "newId is NULL")
         pass

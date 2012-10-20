@@ -34,8 +34,9 @@ class DaoUtil(object):
                              db=self.config.db["database"])
         
         return dbConn
-               
-    def getSQLDateFromString(self, stringDate):
+    
+    @staticmethod
+    def getSQLDateFromString(stringDate):
         '''
         '''
         if (stringDate != None) :
