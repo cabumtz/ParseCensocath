@@ -1,8 +1,14 @@
-/magmasoft/dao/daoutil.pyc
-/magmasoft/factory/__init__.pyc
-/magmasoft/factory/servicefactory.pyc
-/magmasoft/service/__init__.pyc
-/magmasoft/service/encuestafamiliarservice.pyc
-/magmasoft/test/dao/encuestaDAO_Test.pyc
-*.pyc
+## this project
 /logs/
+
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+
