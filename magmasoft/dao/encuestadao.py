@@ -12,7 +12,7 @@ class EncuestaDAO(AbstractDAO):
     '''
     classdocs
     '''
-    
+
     def __init__(self, conn):
         '''
         Constructor
@@ -21,18 +21,16 @@ class EncuestaDAO(AbstractDAO):
         self.logger = logging.getLogger("encuestaDAO")
 
         pass
-    
-        
-        
+
     def insertar(self, fecha, idEncuestador, Observacion):
         '''
         insertar function
         '''
         cursor = None
         newId = None
-        
+
         try:
-        
+
             #STR_TO_DATE(%s, %s)
             cursor = self.db.cursor()
             sql = """INSERT INTO Encuesta(Fecha, IdEncuestador, Observacion) VALUES (%s, %s, %s)"""
@@ -43,8 +41,7 @@ class EncuestaDAO(AbstractDAO):
             except Exception, e1:
                 self.logger.error("The error was here: %s" % e1)
                 raise e1
-                
-                
+
             self.logger.debug("execute result: %s" % result)
             
             newId = self.db.insert_id()
