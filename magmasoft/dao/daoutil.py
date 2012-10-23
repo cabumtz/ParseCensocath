@@ -4,9 +4,8 @@ Created on 03/10/2012
 @author: carlos
 '''
 import MySQLdb
+from MySQLdb.converters import conversions as mysqlconversions
 import string
-
-from MySQLdb.converters import conversions as MySQLConversions
 
 class DaoUtil(object):
     '''
@@ -26,7 +25,7 @@ class DaoUtil(object):
     def getConnection(self):
         '''
         '''
-        my_conv = MySQLConversions.copy()
+        my_conv = mysqlconversions.copy()
         
         dbConn = MySQLdb.connect(conv=my_conv,
                              host=self.config.db["host"],
@@ -35,8 +34,9 @@ class DaoUtil(object):
                              db=self.config.db["database"])
         
         return dbConn
-               
-    def getSQLDateFromString(self, stringDate):
+    
+    @staticmethod
+    def getSQLDateFromString(stringDate):
         '''
         '''
         if (stringDate != None) :

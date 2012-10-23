@@ -34,7 +34,7 @@ class ServiceFactory(object):
                 "encuestaDAO": encuestaDAO,
                 "coloniaDAO": coloniaDAO }
         
-        encuestaFamiliarService = EncuestaFamiliarService(self.daos, self.daoUtil)
+        encuestaFamiliarService = EncuestaFamiliarService(self.daos)
         
         self.services = { "encuestaFamiliarService": encuestaFamiliarService }
         

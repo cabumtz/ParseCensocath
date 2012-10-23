@@ -18,7 +18,7 @@ class EncuestaDAO(AbstractDAO):
         Constructor
         '''
         self.db = conn
-        self.logger = logging.getLogger("encuestaDAO")
+        self.logger = logging.getLogger("daos")
 
         pass
 

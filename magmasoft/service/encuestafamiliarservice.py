@@ -4,22 +4,21 @@ Created on 03/10/2012
 @author: carlos
 '''
 import logging
+from magmasoft.dao.daoutil import DaoUtil
 
 class EncuestaFamiliarService(object):
     '''
     classdocs
     '''
     daos = None
-    daoUtil = None
     logger = logging.getLogger("services")
+    
 
-
-    def __init__(self, daos, daoUtil):
+    def __init__(self, daos):
         '''
         Constructor
         '''
         self.daos = daos
-        self.daoUtil = daoUtil
         pass
     
     
@@ -36,10 +35,10 @@ class EncuestaFamiliarService(object):
         observacion = ( datosEncuesta["OBSERVACION"] if ("OBSERVACION" in datosEncuesta) else None)
         
         self.logger.debug("insert in Encuesta(%s, %s, %s)" %
-                          ( self.daoUtil.getSQLDateFromString(fecha), encuestador_id, observacion ))
+                          ( DaoUtil.getSQLDateFromString(fecha), encuestador_id, observacion ))
         
         encuesta_id = encuestaDAO.insertar(
-                            self.daoUtil.getSQLDateFromString(fecha),
+                            DaoUtil.getSQLDateFromString(fecha),
                             encuestador_id,
                             observacion)
         
