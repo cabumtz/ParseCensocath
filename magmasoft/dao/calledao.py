@@ -22,47 +22,47 @@ class CalleDAO(object):
         pass
 
 
-    def obtenerCalleId(self, nombreCalle):
+    def obtenerCalleId(self, nombreCalle, colonia_id, sector_id):
         '''
 
         '''
-        sqlParameters = ( nombreColonia, )
+        sqlParameters = ( nombreCalle, colonia_id, sector_id )
 
         try:
             cursor = self.db.cursor()
-            colonia_id = 0
+            calle_id = 0
 
             # primer buscar en base de datos
-            sql = """SELECT Id, Nombre FROM Colonia WHERE Nombre = %s"""
+            sql = """SELECT Id FROM Calle WHERE Nombre = %s AND IdColonia = %s"""
             result = None
-            cursor.execute(sql, nombreColonia )
+            cursor.execute(sql, sqlParameters )
             result = cursor.fetchone()
 
             if (result != None) :
-                # existe colonia
-                colonia_id = result[0]
+                # existe calle
+                calle_id = result[0]
 
                 self.db.commit()
 
-                self.logger.debug("colonia existe. colonia_id: %s" % colonia_id)
+                self.logger.debug("calle existe. calle_id: %s" % calle_id)
 
-                return colonia_id
+                return calle_id
 
             else :
 
-                self.logger.debug("result = None. colonia no existe")
+                self.logger.debug("result = None. calle no existe")
                 # no existe la colonia
-                sql = """INSERT INTO Colonia(Nombre) VALUES ( %s )"""
+                sql = """INSERT INTO Calle(Nombre, IdColonia, IdSector) VALUES ( %s, %d, %d )"""
 
-                result = cursor.execute(sql, nombreColonia )
+                result = cursor.execute(sql, sqlParameters )
 
                 self.logger.debug("execute result: %s" % result)
 
-                colonia_id = self.db.insert_id()
+                calle_id = self.db.insert_id()
 
                 self.db.commit()
 
-                self.logger.debug("colonia insertada. colonia_id: %s" % colonia_id)
+                self.logger.debug("calle insertada. calle_id: %s" % calle_id)
 
                 return colonia_id
 
