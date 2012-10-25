@@ -7,6 +7,7 @@ from magmasoft.dao.daoutil import DaoUtil
 from magmasoft.dao.encuestadao import EncuestaDAO
 from magmasoft.dao.coloniadao import ColoniaDAO
 from magmasoft.service.encuestafamiliarservice import EncuestaFamiliarService
+from magmasoft.dao.calledao import CalleDAO
 
 class ServiceFactory(object):
     '''
@@ -29,10 +30,13 @@ class ServiceFactory(object):
         
         encuestaDAO = EncuestaDAO(self.dbConn)
         coloniaDAO = ColoniaDAO(self.dbConn)
+        calleDAO = CalleDAO(self.dbConn)
     
         self.daos = {
                 "encuestaDAO": encuestaDAO,
-                "coloniaDAO": coloniaDAO }
+                "coloniaDAO": coloniaDAO,
+                "calleDAO": calleDAO
+                }
         
         encuestaFamiliarService = EncuestaFamiliarService(self.daos)
         
