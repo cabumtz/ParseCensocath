@@ -34,6 +34,7 @@ class CalleDAO(object):
 
             # primer buscar en base de datos
             sql = """SELECT Id, Nombre FROM Calle WHERE Nombre = %s AND IdColonia = %d AND IdSector = %d"""
+
             result = None
             cursor.execute(sql, sqlParameters )
             result = cursor.fetchone()
@@ -51,7 +52,9 @@ class CalleDAO(object):
             else :
 
                 self.logger.debug("result = None. calle no existe")
+
                 # no existe la calle
+
                 sql = """INSERT INTO Calle(Nombre, IdColonia, IdSector) VALUES ( %s, %d, %d )"""
 
                 result = cursor.execute(sql, sqlParameters )
@@ -62,7 +65,7 @@ class CalleDAO(object):
 
                 self.db.commit()
 
-                self.logger.debug("colonia insertada. colonia_id: %s" % colonia_id)
+                self.logger.debug("calle insertada. calle_id: %s" % calle_id)
 
                 return colonia_id
 
