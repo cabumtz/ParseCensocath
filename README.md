@@ -8,3 +8,5 @@ Programa para parseo de csv y almacenado en mysql de datos de censo católico en
  - eclipse-pydev project
  - Otros
 
+##Autor
+Carlos Alberto Bañuelos Moro

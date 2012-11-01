@@ -22,15 +22,19 @@ class EncuestaFamiliarService(object):
         pass
     
     
-    def guardar(self, datosEncuesta, listaPersonas, colonia):
+    def guardar(self, datosEncuesta, listaPersonas, nombreColonia):
         '''
         '''
         ID_ENCUESTADOR_OTRO = 1
         
         
         encuestaDAO = self.daos["encuestaDAO"]
+        coloniaDAO = self.daos["coloniaDAO"]
         
         encuestador_id = ID_ENCUESTADOR_OTRO
+        
+        colonia_id = coloniaDAO.obtenerColoniaId(nombreColonia)
+        
         fecha = ( datosEncuesta["FECHA"] if ("FECHA" in datosEncuesta) else None)
         observacion = ( datosEncuesta["OBSERVACION"] if ("OBSERVACION" in datosEncuesta) else None)
         
